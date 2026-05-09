@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SOSInsurance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c11622914b1d5bd67218eaf680427b6475fb19b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+983d433da7c5a53810f0c1b90131b51dde0ccca2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SOSInsurance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SOSInsurance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
