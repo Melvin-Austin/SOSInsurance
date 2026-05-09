@@ -1,0 +1,69 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>HyenaQuest.MainMenu</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>12.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="HyenaQuest.SDK">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/HyenaQuest.SDK.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Cinemachine">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/Unity.Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="FailCake.Timers">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/FailCake.Timers.dll</HintPath>
+    </Reference>
+    <Reference Include="HyenaQuest.Core">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/HyenaQuest.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VectorGraphics">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/Unity.VectorGraphics.dll</HintPath>
+    </Reference>
+    <Reference Include="com.rlabrecque.steamworks.net">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/com.rlabrecque.steamworks.net.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/UnityEngine.UnityWebRequestModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InputSystem">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/Unity.InputSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Localization">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/Unity.Localization.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Netcode.Runtime">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/Unity.Netcode.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Collections">
+      <HintPath>../../../../../../../mnt/storage/Steam Libary/steamapps/common/Delivery-Beyond/delivery-beyond_Data/Managed/Unity.Collections.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
