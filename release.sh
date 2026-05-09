@@ -28,12 +28,8 @@ cp bin/Release/netstandard2.1/SOSInsurance.dll "/mnt/storage/Steam Libary/steama
 echo "Packaging..."
 mkdir -p "$RELEASE_DIR"
 
-# DLL zip
-mkdir -p "$RELEASE_DIR/SOSInsurance-v$NEW_VERSION"
-cp bin/Release/netstandard2.1/SOSInsurance.dll "$RELEASE_DIR/SOSInsurance-v$NEW_VERSION/SOSInsurance.dll"
-cd "$RELEASE_DIR"
-zip -r "SOSInsurance-v$NEW_VERSION.zip" "SOSInsurance-v$NEW_VERSION"
-rm -rf "SOSInsurance-v$NEW_VERSION"
+# DLL
+cp bin/Release/netstandard2.1/SOSInsurance.dll "$RELEASE_DIR/SOSInsurance-v$NEW_VERSION.dll"
 
 # Source zip
 cd "$PROJECT_DIR"
@@ -51,7 +47,7 @@ git push
 
 echo "Creating GitHub release..."
 gh release create "v$NEW_VERSION" \
-    "$RELEASE_DIR/SOSInsurance-v$NEW_VERSION.zip" \
+    "$RELEASE_DIR/SOSInsurance-v$NEW_VERSION.dll" \
     "$RELEASE_DIR/SOSInsurance-v$NEW_VERSION-source.zip" \
     --title "v$NEW_VERSION" \
     --notes "Release v$NEW_VERSION"
