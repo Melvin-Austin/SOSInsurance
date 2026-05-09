@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SOSInsurance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52df99fdc8446d4ad86620e974dbb3b5d97e73c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c11622914b1d5bd67218eaf680427b6475fb19b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SOSInsurance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SOSInsurance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
