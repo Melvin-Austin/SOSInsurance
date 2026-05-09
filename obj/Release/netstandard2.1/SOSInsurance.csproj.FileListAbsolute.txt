@@ -159,3 +159,9 @@
 /home/Austin/mods/SOSInsurance/SOSInsurance/obj/Release/netstandard2.1/SOSInsurance.csproj.CopyComplete
 /home/Austin/mods/SOSInsurance/SOSInsurance/obj/Release/netstandard2.1/SOSInsurance.dll
 /home/Austin/mods/SOSInsurance/SOSInsurance/obj/Release/netstandard2.1/SOSInsurance.pdb
+/home/Austin/mods/SOSInsurance/SOSInsurance/bin/Release/netstandard2.1/UnityEngine.AMDModule.dll
+/home/Austin/mods/SOSInsurance/SOSInsurance/bin/Release/netstandard2.1/UnityEngine.NVIDIAModule.dll
+/home/Austin/mods/SOSInsurance/SOSInsurance/bin/Release/netstandard2.1/UnityEngine.ARModule.dll
+/home/Austin/mods/SOSInsurance/SOSInsurance/bin/Release/netstandard2.1/Discord.Sdk.dll
+/home/Austin/mods/SOSInsurance/SOSInsurance/bin/Release/netstandard2.1/Adrenak.RNNoise4Unity.Runtime.dll
+/home/Austin/mods/SOSInsurance/SOSInsurance/obj/Release/netstandard2.1/SOSInsurance.sourcelink.json
