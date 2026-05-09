@@ -68,3 +68,5 @@ Each session there's a 10% chance insurance goes on sale, dropping from $350 to 
 | `UseRandomLoss` | `false` | Use random loss instead of scaling |
 | `RandomLossMin` | `0` | Min % for random loss roll |
 | `RandomLossMax` | `100` | Max % for random loss roll |
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3722901866
